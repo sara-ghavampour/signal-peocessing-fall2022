@@ -1,4 +1,4 @@
-# signal-peocessing-fall2022
+# signal-processing-fall2022
 ----
 
 
